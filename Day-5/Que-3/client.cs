@@ -1,5 +1,5 @@
 using System;
-using ClassEmp;
+using DevPro-3;
 namespace EmpClient
 {
     class Program
