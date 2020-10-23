@@ -1,5 +1,5 @@
 ﻿using System;
-using Classl;
+using DevPro-1;
 namespace cl2
 {
     class Program
