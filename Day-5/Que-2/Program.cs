@@ -1,5 +1,5 @@
 ﻿using System;
-using ClassLAmt;
+using DevPro-2;
 namespace AmountClient
 {
     class Program
