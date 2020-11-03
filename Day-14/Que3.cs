@@ -6,7 +6,7 @@ using System;
 
 namespace Que3
 {
-    public delegate int MyDeligate<T>(T a);
+    public delegate T MyDeligate<T>(T a);
 
     class Program
     {
