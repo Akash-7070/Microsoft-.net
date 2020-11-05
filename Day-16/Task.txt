@@ -1,0 +1,14 @@
+Q1. Create class  employee having member id, name, salary, address [put address as Vile parle, Andheri, Kandivali].
+a. Display all employee detail
+b. Display all employee who are staying at Andheri
+c. Display total of all salary
+d. Display  all employee who’s name start with “v”
+e. Count number of Employee in a company
+f. Display all employee getting salary > 50000
+g. Display min , max and average salary
+h. Display all name in ascending order.
+i. display all record salary in descending order salary wise
+h. display Id and name who’s salary is <20000
+
+Q2. Write a method which will print 1 to 10. Create 2 thread and let both thread use this method.
+Use sleep method .
