@@ -1,0 +1,4 @@
+Q1. Create table Emp having column Id, Name, Salary.using ADO.Net display all detail of the table.
+Do not forget to add record in table.
+Q2. Solve above program using setter method connection string in SqlConnection class.
+
