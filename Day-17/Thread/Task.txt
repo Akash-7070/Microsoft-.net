@@ -1,0 +1,2 @@
+Create a class math which has method factorial who’s job is to return factorial of a number.
+Create two thread in a class “myclassthread” in this class create a static object of math class. Create two thread and call factorial method. Ensure only one thread execute method at atime. Each thread will pass different number to calculate factorial of a number.
