@@ -1,0 +1,4 @@
+Q1. Using disconnected architecture perform insert and update delete.
+Q2. Read about DI
+Q3. Read Entity PPT
+
