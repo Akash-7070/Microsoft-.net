@@ -1,0 +1,4 @@
+Q1. Create a MVC application having hyperlink Home, About us, Contact on click of each it should open respective view file. Your link should be in a file menubar.cshtml in a shared folder of a view folder. Also put footer in footer.cshtml file. Include this file using partial method in _Layout.cshtml
+Q2. Put a debugger in gloabal.asax, routconfig, _Layout, __ViewStart and the in index view
+Observe the flow.
+
