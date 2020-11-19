@@ -1,0 +1,8 @@
+Q1. Create a Product table having column Id, name, Qty, price. Write business_Layer class who’s job is to perform insert, update, delete, display  strongly type data. Using MVC frame work.
+
+In the above example give server side validation of [required]
+
+Q2. Using schema first approach generate poco and proxy class. Using MVC frame work display all record. It should have all functionality of insert update delete.
+
+Q3.Using Model first approach generate database and poco class. [create EMP DEPT table give association ]Using MVC frame work display all record. It should have all functionality of insert update delete.
+
